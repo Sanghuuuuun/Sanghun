@@ -10,7 +10,7 @@
 ---
 과제 2번 
 20001206 Bae Seonghwan
-(Collaborator 배성환에 의해 작성됨)
+(Collaborator 배성환에 의해 수정됨)
 
 ---  
 과제 3번
